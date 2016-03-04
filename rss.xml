@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ramani Enterprises]]></title>
+        <description><![CDATA[Ramani Enterprises]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Mar 2016 23:41:00 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3913b803-398d-433e-983a-9ed05a3418b9.jpg">]]></description>
+            <link>undefined960bb851-1597-4a74-9fd7-ccae8421f65c/index.html</link>
+            <guid isPermaLink="false">960bb851-1597-4a74-9fd7-ccae8421f65c</guid>
+            <pubDate>Fri, 04 Mar 2016 23:39:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
