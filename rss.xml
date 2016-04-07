@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Ramani Enterprises]]></title>
         <description><![CDATA[Ramani Enterprises]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ramani-enterprises/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 23:41:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Apr 2016 04:19:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ramani-enterprises/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Located in Turtle Bay, Ramani Bistro is a purveyor of fine Canadian dining from the esteemed Chef Rev. Ramani]]></title>
+            <description><![CDATA[<article><h1>Located in Turtle Bay, Ramani Bistro is a purveyor of fine Canadian dining from the esteemed Chef Rev. Ramani</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ac22d3d-2d43-44a0-83ad-f6bcbc974203.jpg"></article>]]></description>
+            <link>https://thegrid.ai/ramani-enterprises/bfbef3c4-7e3e-4a5f-8996-89b54ab0d6a8/index.html</link>
+            <guid isPermaLink="false">bfbef3c4-7e3e-4a5f-8996-89b54ab0d6a8</guid>
+            <pubDate>Thu, 07 Apr 2016 04:18:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3913b803-398d-433e-983a-9ed05a3418b9.jpg">]]></description>
-            <link>undefined960bb851-1597-4a74-9fd7-ccae8421f65c/index.html</link>
+            <link>https://thegrid.ai/ramani-enterprises/960bb851-1597-4a74-9fd7-ccae8421f65c/index.html</link>
             <guid isPermaLink="false">960bb851-1597-4a74-9fd7-ccae8421f65c</guid>
             <pubDate>Fri, 04 Mar 2016 23:39:06 GMT</pubDate>
         </item>
